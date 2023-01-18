@@ -4,7 +4,7 @@ numberSecond = int(input("Enter Second Number: "))
 
 numberAdd = numberFirst + numberSecond
 
-print("\nAddition : {}".format(numberAdd))
+print("\nAddition of 2 input numbers : {}".format(numberAdd))
 #print("Addition : %d" %numberAdd)
 
 
